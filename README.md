@@ -30,7 +30,7 @@ The README was written from the repository contents, including its manifest file
 
 ## Project Structure
 
-`	ext
+```text
 .
 |-- .editorconfig
 |-- .project
@@ -46,13 +46,13 @@ The README was written from the repository contents, including its manifest file
 |-- LICENSE
 |-- Privacy Policy.md
 |-- README.md
-`
+```
 
 ## Setup
 
-`ash
+```bash
 .\gradlew assembleDebug
-`
+```
 
 ## What This Project Demonstrates
 
